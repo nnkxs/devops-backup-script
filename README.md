@@ -1,5 +1,7 @@
 Backup Script
 
+Это моя первая работа.
+
 Bash-скрипт для автоматического бэкапа файлов с логированием и ротацией старых архивов.
 
 Что делает
@@ -12,6 +14,8 @@ chmod +x backup.sh
 ./backup.sh
 
 =================================================================================================
+
+This is my first job.
 
 A Bash script for automated file backups, featuring logging and rotation of old archives.
 
