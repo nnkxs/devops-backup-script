@@ -19,3 +19,5 @@ fi
 for file in $(ls -t ~/backups | tail -n +4); do
     rm "$BACKUP_DIR/$file"
 done
+
+echo "Script finished at $(date +%H:%M:%S)"
